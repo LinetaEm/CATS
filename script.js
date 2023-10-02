@@ -19,5 +19,4 @@ catFactForm.addEventListener("submit", function (event) {
 
 getFactButton.addEventListener("click", function () {
     factContainer.innerHTML = "";
-    getCatFact();
 });
